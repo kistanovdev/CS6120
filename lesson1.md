@@ -1,6 +1,6 @@
 # Lesson 1
 
-Foobar is a Python library for dealing with word pluralization.
+The answer to the discussion question posed by the professor on the first day of class
 
 ## Question: What goes into the implementation of a programming language?
 
